@@ -27,4 +27,4 @@ In This Analysis I am helping my friend Maria replace the ninth grade math and r
 ![Screen Shot 2022-07-11 at 1 33 16 PM](https://user-images.githubusercontent.com/105253626/178328661-2140c9b3-6549-48d2-92e6-bf291452badc.png)
 
 ## Summary
-When we look at the data frames we can see that the schools with th
+When we look at the data frames we can see that the schools with the most Overall passing rate are Charter schools and the schools with the lowest Overall rate are the District schools.
